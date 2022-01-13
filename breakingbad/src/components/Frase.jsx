@@ -5,7 +5,7 @@ const ContenedorFrase = styled.div`
     padding: 3rem;
     border-radius: .5rem;
     background-color: #fff;
-    max-width: 800px;
+    max-width: 900px;
 
     @media (min-width: 992px) {
         margin-top: 10rem;
